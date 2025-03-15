@@ -131,8 +131,8 @@ const FitnessSection = () => {
                 className="image-container"
             >
                 <img
-                    src="/character.png"
-                    alt="Fitness Character"
+                    src="/sla3.png.png"
+                    alt="sla3.png"
                     className="fitness-image"
                 />
             </motion.div>
